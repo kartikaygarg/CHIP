@@ -1,0 +1,2 @@
+# CHIP
+CHIP computing platform
